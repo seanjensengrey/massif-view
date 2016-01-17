@@ -1,4 +1,4 @@
-= Valgrind Massif Viewer
+# Valgrind Massif Viewer
 
 http://valgrind.org/docs/manual/ms-manual.html
 
